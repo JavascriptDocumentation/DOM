@@ -1,5 +1,6 @@
 # DOM
 * [Highlight and inspect DOM nodes](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Highlight_and_inspect_DOM_nodes?utm_source=dev-newsletter&utm_medium=email&utm_campaign=sept12-2019&utm_content=mdn)
+* [How to capture webpage screenshot using javascript?](https://w3lessons.info/how-to-capture-webpage-screenshot-using-javascript/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+nextweb2+%28W3lessons%29)
 * text node represents white space
 * Window object is the parent object of the browser
 
