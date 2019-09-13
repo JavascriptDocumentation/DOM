@@ -1,4 +1,5 @@
 # DOM
+* [Highlight and inspect DOM nodes](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Highlight_and_inspect_DOM_nodes?utm_source=dev-newsletter&utm_medium=email&utm_campaign=sept12-2019&utm_content=mdn)
 * text node represents white space
 * Window object is the parent object of the browser
 
