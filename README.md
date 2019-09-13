@@ -4,7 +4,7 @@
 
 * [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_auth.htm#cli_reference_force_auth)
 * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
-* 
+* [DOM Item Lister](https://codepen.io/bradtraversy/pen/Bwapow)
 
 * `document.getElementsByClassName('slds-file-selector__button slds-button slds-button_neutral')`
 
